@@ -1,6 +1,6 @@
 # TinyML Performance Evaluation #
 
-Repository del progetto "TinyML Performance Evaluation" di IoT.
+Repository del progetto "TinyML Performance Evaluation" di IoT (Gabriele Savoia).
 E' composta nel seguente modo:
 * **file TinyMLperformanceEval.pdf**: report completo del progetto;
 * **folder python**: contiene i notebook e i dataset usati per la creazione delle reti neurali ed anche il notebook per l'elaborazione dei risultati come grafici;
